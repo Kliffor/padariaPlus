@@ -1,0 +1,78 @@
+body {
+    text-align: center;
+    font-size: Tahoma;
+    background-color: #f4f0e5;
+    margin: 0;
+}
+
+a {
+    margin: 0 10px;
+    color: #542f0c;
+    ;
+}
+
+.melhor {
+    font-weight: bold;
+}
+
+.secao {
+    font-size: 25px;
+}
+
+.secao-desde {
+    font-weight: normal;
+    color: #de8e37;
+    font-size: 30px;
+}
+
+.logo-padaria {
+    height: 400px;
+    text-align: center;
+}
+
+div .imagem-logotipo {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+
+.secao-sobre {
+    background-color: #de8e37;
+}
+
+.paes {
+    text-align: center;
+    height: 250px;
+}
+
+.bolos {
+    text-align: center;
+    height: 280px;
+}
+
+.secao-contato span {
+    font-weight: bold;
+}
+
+.secao-contato p {
+    font-size: 25px;
+}
+
+.secao p {
+    font-size: 30px;
+    font-weight: bold;
+    width: 700px;
+    margin: 0px auto;
+}
+
+.secao-sobre p {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+div p {
+    font-size: 35px;
+
+}

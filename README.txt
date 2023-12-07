@@ -1,0 +1,1 @@
+O projeto consiste na confecção de um pequeno site de uma padaria, na qual foram feito uso dos seletores de tags e classes.
